@@ -1,6 +1,6 @@
 # Optimal Binary Search Tree (OBST) Implementation
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Python](https://img.shields.io/badge/Python-3.12%2B-blue)
 
 A Python implementation of three approaches to construct Optimal Binary Search Trees (OBST) with probability-based node placement.
 
