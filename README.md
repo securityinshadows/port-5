@@ -20,7 +20,7 @@ OBST minimizes expected search cost by placing frequently accessed nodes closer 
 - Runtime benchmarking
 
 
-## 🛠️ Installation
+## Installation
 ```bash
 git clone https://github.com/yourusername/optimal-bst.git
 cd optimal-bst
